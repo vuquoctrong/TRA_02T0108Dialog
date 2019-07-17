@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TRA_02.T01.08Dialog</string>
+
+    <string name="title_topping">Pick your toppings</string>
+    <string name="Onion">Onion</string>
+    <string name="Lettuce">Lettuce</string>
+    <string name="Tomato">Tomato</string>
+    <string name="Brightness">Brightness</string>
+    <string name="Automatic_Brightness">Automatic_Brightness</string>
+    <string name="Erase_use_storage">Erase Use storage</string>
+    <string name="You_lose">You lose all photo and media!</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="Erase">Erase</string>
+    <string name="Set">Set</string>
+
+    <string name="Dialog_brightness">Dialog Brightness</string>
+    <string name="Dialog_picket_number">Dialog Picket Number</string>
+    <string name="Dialog_pick_topping">Dialog Pick Topping</string>
+    <string name="Dialog_Time_picket">Dialog Time Picket</string>
+    <string name="Dialog_Data_picket">Dialog Data Picket</string>
+
+</resources>
